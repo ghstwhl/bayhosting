@@ -1,2 +1,2 @@
-# bayhosting
-If you've found a security issue with a site hosted at bayhosting.net, please file an issue against this repo.
+# Reporting an issue with bayhosting.net
+If you have found a security issue with a site hosted at bayhosting.net, please file an encrypted issue against this repo with a description of the issue and your contact informatiomn.  Please use my [public key](https://keybase.io/ghostwheel/pgp_keys.asc) which can be found at [keybase.io](https://keybase.io/ghostwheel), where you can also verifiy that I own this github account, and the bayhosting.net domain.
